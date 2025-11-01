@@ -1,0 +1,114 @@
+[
+  {
+    "product_id": 1,
+    "brand": "HOKA",
+    "model": "Bondi 8",
+    "price": 6490,
+    "description": "Experience the ultimate in plush comfort with the HOKA Bondi 8, the pinnacle of Maximum Cushion footwear. Designed for long-distance runs, recovery days, or daily use where maximum comfort is key. It features an exceptionally thick foam midsole, delivering an incredibly soft landing and excellent energy return, providing the best cushioning in every step."
+  },
+  {
+    "product_id": 2,
+    "brand": "HOKA",
+    "model": "Bondi 9 Wide",
+    "price": 6990,
+    "description": "The HOKA Bondi 9 Wide is the answer for runners with wide feet. This model delivers maximum comfort by offering a more spacious forefoot, reducing constriction. It continues the legacy of plush comfort and full-scale impact support in every stride, perfect for those seeking ultimate relaxation on their run."
+  },
+  {
+    "product_id": 3,
+    "brand": "HOKA",
+    "model": "Hopara 2",
+    "price": 5490,
+    "description": "The HOKA Hopara 2 is a hybrid outdoor shoe ready to tackle any terrain with you. It excels with outstanding water drainage and breathability. Its high-quality rubber outsole is engineered for superior grip on both wet and dry surfaces, making it ideal for light hiking, stream crossings, or water activities."
+  },
+  {
+    "product_id": 4,
+    "brand": "HOKA",
+    "model": "Kawana",
+    "price": 5490,
+    "description": "The HOKA Kawana strikes the perfect balance between softness and responsiveness. This is a versatile running shoe designed to support all your activities, whether it's a gym workout, a short run, or everyday wear. With its sleek and modern design, it's the all-in-one shoe you need."
+  },
+  {
+    "product_id": 5,
+    "brand": "HOKA",
+    "model": "Mach 6",
+    "price": 5990,
+    "description": "Unleash your speed with the HOKA Mach 6, a speed-focused running shoe that emphasizes being lightweight and responsive. Designed for speed training and short to middle-distance racing, it delivers a fast, snappy ride. Experience the agility and energy return that propels you forward with every step."
+  },
+  {
+    "product_id": 6,
+    "brand": "HOKA",
+    "model": "Rincon 4 Wide",
+    "price": 4990,
+    "description": "The HOKA Rincon 4 Wide offers an incredibly lightweight running experience. Despite its minimal weight, it maintains surprisingly good cushioning and impact support. Its simple yet efficient construction is perfect for daily runs, and this model is specifically designed for those with wider feet."
+  },
+  {
+    "product_id": 7,
+    "brand": "NEW BALANCE",
+    "model": "327",
+    "price": 3600,
+    "description": "The NEW BALANCE 327 is a lifestyle shoe that perfectly blends classic and modern aesthetics. Inspired by 70s running silhouettes, it stands out with its unique design and an oversized 'N' logo. It's perfect for everyday wear, casual walks, or creating a distinct and memorable look."
+  },
+  {
+    "product_id": 8,
+    "brand": "NEW BALANCE",
+    "model": "530",
+    "price": 3900,
+    "description": "The NEW BALANCE 530 is the ultimate retro-casual sneaker, bringing back the 90s and 2000s running style in a big way. Highly popular for its classic look and superior wearing comfort, it features ABZORB technology in the heel for excellent shock absorption with every step."
+  },
+  {
+    "product_id": 9,
+    "brand": "NEW BALANCE",
+    "model": "Fresh Foam X 1080v14 2E",
+    "price": 4800,
+    "description": "The NEW BALANCE Fresh Foam X 1080v14 2E is the perfect high-performance daily trainer. It delivers superior softness and flexibility thanks to the innovative Fresh Foam X midsole, providing maximum comfort for every mile. This 2E model is specifically designed for those with wide feet."
+  },
+  {
+    "product_id": 10,
+    "brand": "NEW BALANCE",
+    "model": "FuelCell Rebel v4",
+    "price": 5400,
+    "description": "Experience a different kind of speed with the NEW BALANCE FuelCell Rebel v4. This lightweight running shoe is exceptionally responsive, powered by a high-rebound FuelCell foam. It offers maximum agility, ideal for runners tackling tempo/interval workouts or short, challenging runs."
+  },
+  {
+    "product_id": 11,
+    "brand": "NEW BALANCE",
+    "model": "FuelCell Rebel v5",
+    "price": 4346,
+    "description": "The NEW BALANCE FuelCell Rebel v5, an evolution of the popular v4, continues to champion a lightweight, fast, and aggressive ride. Featuring high-rebound FuelCell foam, it makes every speed run more fun, agile, and efficient by delivering propulsive energy return."
+  },
+  {
+    "product_id": 12,
+    "brand": "NIKE",
+    "model": "Air Max Alpha Trainer",
+    "price": 3400,
+    "description": "The NIKE Air Max Alpha Trainer is a versatile training shoe built for durability and stability during intense workouts. It features a Zoom Air Max unit in the heel for excellent cushioning, making it ideal for gym sessions, weightlifting, or high-intensity HIIT training where stability is crucial."
+  },
+  {
+    "product_id": 13,
+    "brand": "NIKE",
+    "model": "Alphafly 3",
+    "price": 9400,
+    "description": "The NIKE Alphafly 3 is the pinnacle of racing shoe innovation, designed for breaking records and achieving your fastest run. It's packed with cutting-edge technology, including a full-length carbon fiber plate, ZoomX foam, and Zoom Air Units that deliver powerful energy return."
+  },
+  {
+    "product_id": 14,
+    "brand": "NIKE",
+    "model": "Pegasus 41",
+    "price": 5200,
+    "description": "The NIKE Pegasus 41, your trusted 'workhorse with wings' for daily running. This legendary Nike runner offers the perfect balance of plush comfort, rugged durability, and reliable responsiveness for every route, every day."
+  },
+  {
+    "product_id": 15,
+    "brand": "NIKE",
+    "model": "Vomero 18",
+    "price": 5500,
+    "description": "Elevate your running comfort with the NIKE Vomero 18, a shoe that delivers premium cushioning. It's ideal for middle to long-distance runs where maximum support is needed, focusing on a luxurious, stable, and relaxing feel in every step, offering superior support compared to the Pegasus."
+  },
+  {
+    "product_id": 16,
+    "brand": "NIKE",
+    "model": "Zoom Fly 6",
+    "price": 6300,
+    "description": "The NIKE Zoom Fly 6 is a running shoe specifically designed for speed training and tempo runs. It features a carbon (or composite) plate that provides a stable, propulsive feel, efficiently pushing you forward. It's the perfect training partner to prepare you for race day."
+  }
+]

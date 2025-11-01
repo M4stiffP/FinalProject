@@ -1,0 +1,35 @@
+[{
+  "product_id": 1,
+  "color_id": 1,
+  "size": 38,
+  "stock_in": 100,
+  "stock_out": 53
+},
+{
+  "product_id": 1,
+  "color_id": 1,
+  "size": 39,
+  "stock_in": 100,
+  "stock_out": 9
+},
+{
+  "product_id": 1,
+  "color_id": 1,
+  "size": 40,
+  "stock_in": 100,
+  "stock_out": 36
+},
+{
+  "product_id": 1,
+  "color_id": 1,
+  "size": 41,
+  "stock_in": 100,
+  "stock_out": 93
+},
+{
+  "product_id": 1,
+  "color_id": 1,
+  "size": 42,
+  "stock_in": 100,
+  "stock_out": 53
+}]

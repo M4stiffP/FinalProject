@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb09"
+  },
+  "order_id": 1,
+  "customer_id": 1,
+  "order_date": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  },
+  "product_id": 1,
+  "quantity": 1,
+  "unit_price": 6490,
+  "size": 42
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0a"
+  },
+  "order_id": 2,
+  "customer_id": 2,
+  "order_date": {
+    "$date": "2025-10-06T00:00:00.000Z"
+  },
+  "product_id": 7,
+  "quantity": 2,
+  "unit_price": 3600,
+  "size": 39
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0b"
+  },
+  "order_id": 3,
+  "customer_id": 3,
+  "order_date": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  },
+  "product_id": 13,
+  "quantity": 1,
+  "unit_price": 9400,
+  "size": 43
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0c"
+  },
+  "order_id": 4,
+  "customer_id": 4,
+  "order_date": {
+    "$date": "2025-10-12T00:00:00.000Z"
+  },
+  "product_id": 4,
+  "quantity": 1,
+  "unit_price": 5490,
+  "size": 41
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0d"
+  },
+  "order_id": 5,
+  "customer_id": 5,
+  "order_date": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "product_id": 10,
+  "quantity": 2,
+  "unit_price": 5400,
+  "size": 40
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0e"
+  },
+  "order_id": 6,
+  "customer_id": 6,
+  "order_date": {
+    "$date": "2025-10-19T00:00:00.000Z"
+  },
+  "product_id": 6,
+  "quantity": 1,
+  "unit_price": 4990,
+  "size": 42
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb0f"
+  },
+  "order_id": 7,
+  "customer_id": 7,
+  "order_date": {
+    "$date": "2025-10-21T00:00:00.000Z"
+  },
+  "product_id": 8,
+  "quantity": 1,
+  "unit_price": 3900,
+  "size": 39
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb10"
+  },
+  "order_id": 8,
+  "customer_id": 8,
+  "order_date": {
+    "$date": "2025-10-24T00:00:00.000Z"
+  },
+  "product_id": 14,
+  "quantity": 3,
+  "unit_price": 5200,
+  "size": 43
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb11"
+  },
+  "order_id": 9,
+  "customer_id": 9,
+  "order_date": {
+    "$date": "2025-10-27T00:00:00.000Z"
+  },
+  "product_id": 3,
+  "quantity": 1,
+  "unit_price": 5490,
+  "size": 41
+},
+{
+  "_id": {
+    "$oid": "690517efa9fdbd6a9c22bb12"
+  },
+  "order_id": 10,
+  "customer_id": 10,
+  "order_date": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  },
+  "product_id": 16,
+  "quantity": 1,
+  "unit_price": 6300,
+  "size": 40
+}]

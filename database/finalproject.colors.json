@@ -1,0 +1,634 @@
+[{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e07"
+  },
+  "color_id": 1,
+  "color_name": "Black",
+  "imageUrl": "https://i.postimg.cc/mD8fZ84c/HK-Bondi8-Black.png",
+  "colortag": "#1A1C1D",
+  "product_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e08"
+  },
+  "color_id": 2,
+  "color_name": "Cream",
+  "imageUrl": "https://i.postimg.cc/fLHpQy7R/HK-Bondi8-Cream.png",
+  "colortag": "#E8E5DB",
+  "product_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e09"
+  },
+  "color_id": 3,
+  "color_name": "Cyan",
+  "imageUrl": "https://i.postimg.cc/3w1b2NcD/HK-Bondi8-Cyan.png",
+  "colortag": "#18B19D",
+  "product_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e0a"
+  },
+  "color_id": 4,
+  "color_name": "White",
+  "imageUrl": "https://i.postimg.cc/htgkmktH/HK-Bondi8-White.png",
+  "colortag": "#D7D8D3",
+  "product_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8a"
+  },
+  "color_name": "Black",
+  "color_id": 5,
+  "imageUrl": "https://i.postimg.cc/RCKpTgyC/HK-Bondi9Wide-Black.png",
+  "colortag": "#1A1719",
+  "product_id": 2
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8b"
+  },
+  "color_name": "Blue",
+  "color_id": 6,
+  "imageUrl": "https://i.postimg.cc/yxyPCbCZ/HK-Bondi9Wide-Blue.png",
+  "colortag": "#3AD0F2",
+  "product_id": 2
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8c"
+  },
+  "color_name": "Cyan",
+  "color_id": 7,
+  "imageUrl": "https://i.postimg.cc/6pmhKZgS/HK-Bondi9Wide-Cyan.png",
+  "colortag": "#8EA0AE",
+  "product_id": 2
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8d"
+  },
+  "color_name": "Gold",
+  "color_id": 8,
+  "imageUrl": "https://i.postimg.cc/fyDcCfS5/HK-Bondi9Wide-Gold.png",
+  "colortag": "#ACA177",
+  "product_id": 2
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8e"
+  },
+  "color_name": "Black",
+  "color_id": 9,
+  "imageUrl": "https://i.postimg.cc/0QqD50ft/HK-Hopara2-Black.png",
+  "colortag": "#383838",
+  "product_id": 3
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba8f"
+  },
+  "color_name": "Cream",
+  "color_id": 10,
+  "imageUrl": "https://i.postimg.cc/RZknGLj5/HK-Hopara2-Cream.png",
+  "colortag": "#BFA48B",
+  "product_id": 3
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba90"
+  },
+  "color_name": "Gray",
+  "color_id": 11,
+  "imageUrl": "https://i.postimg.cc/hvYGvSn4/HK-Hopara2-Gray.png",
+  "colortag": "#9B9794",
+  "product_id": 3
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba91"
+  },
+  "color_name": "Green",
+  "color_id": 12,
+  "imageUrl": "https://i.postimg.cc/GhB2NsPB/HK-Hopara2-Green.png",
+  "colortag": "#5C594D",
+  "product_id": 3
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba92"
+  },
+  "color_name": "Black",
+  "color_id": 13,
+  "imageUrl": "https://i.postimg.cc/XqrVTT5V/HK-Kawana-Black.png",
+  "colortag": "#3E3E3E",
+  "product_id": 4
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba93"
+  },
+  "color_name": "Blue",
+  "color_id": 14,
+  "imageUrl": "https://i.postimg.cc/J4BrKCmH/HK-Kawana-Blue.png",
+  "colortag": "#1C222B",
+  "product_id": 4
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba94"
+  },
+  "color_name": "Gray",
+  "color_id": 15,
+  "imageUrl": "https://i.postimg.cc/x1v0DGXq/HK-Kawana-Gray.png",
+  "colortag": "#6D6D6D",
+  "product_id": 4
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba95"
+  },
+  "color_name": "White",
+  "color_id": 16,
+  "imageUrl": "https://i.postimg.cc/KzHbrJHs/HK-Kawana-White.png",
+  "colortag": "CFCDC9",
+  "product_id": 4
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba96"
+  },
+  "color_name": "Cyan",
+  "color_id": 17,
+  "imageUrl": "https://i.postimg.cc/506yVYc8/HK-Mach6-Cyan.png",
+  "colortag": "#C1D9D9",
+  "product_id": 5
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba97"
+  },
+  "color_name": "Green",
+  "color_id": 18,
+  "imageUrl": "https://i.postimg.cc/c1tCknBW/HK-Mach6-Green.png",
+  "colortag": "#676F5F",
+  "product_id": 5
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba98"
+  },
+  "color_name": "White",
+  "color_id": 19,
+  "imageUrl": "https://i.postimg.cc/pXDTRM7N/HK-Mach6-White.png",
+  "colortag": "#D6D5D1",
+  "product_id": 5
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba99"
+  },
+  "color_name": "Yellow",
+  "color_id": 20,
+  "imageUrl": "https://i.postimg.cc/Mp5pfbqD/HK-Mach6-Yellow.png",
+  "colortag": "#C6BD67",
+  "product_id": 5
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9a"
+  },
+  "color_name": "Blue",
+  "color_id": 21,
+  "imageUrl": "https://i.postimg.cc/BQkFnhLL/HK-Rincon4-Blue.png",
+  "colortag": "#0251AD",
+  "product_id": 6
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9b"
+  },
+  "color_name": "Cream",
+  "color_id": 22,
+  "imageUrl": "https://i.postimg.cc/fyf6qCH1/HK-Rincon4-Cream.png",
+  "colortag": "#E5D8C6",
+  "product_id": 6
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9c"
+  },
+  "color_name": "White",
+  "color_id": 23,
+  "imageUrl": "https://i.postimg.cc/zGB9pnT2/HK-Rincon4-White.png",
+  "colortag": "#D4D4D4",
+  "product_id": 6
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9d"
+  },
+  "color_name": "Black",
+  "color_id": 24,
+  "imageUrl": "https://i.postimg.cc/QtLwXwvD/HK-Rincon4-Black.png",
+  "colortag": "#171717",
+  "product_id": 6
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9e"
+  },
+  "color_name": "Black",
+  "color_id": 25,
+  "imageUrl": "https://i.postimg.cc/DwTtk9VC/NB-327-Black.png",
+  "colortag": "#242A2C",
+  "product_id": 7
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba9f"
+  },
+  "color_name": "Blue",
+  "color_id": 26,
+  "imageUrl": "https://i.postimg.cc/CKvt8dZ0/NB-327-Blue.png",
+  "colortag": "#517393",
+  "product_id": 7
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa0"
+  },
+  "color_name": "Cream",
+  "color_id": 27,
+  "imageUrl": "https://i.postimg.cc/sXqNn89w/NB-327-Cream.png",
+  "colortag": "#DAD2BE",
+  "product_id": 7
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa1"
+  },
+  "color_name": "White",
+  "color_id": 28,
+  "imageUrl": "https://i.postimg.cc/zDHMLz8d/NB-327-White.png",
+  "colortag": "#EFEDE9",
+  "product_id": 7
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa2"
+  },
+  "color_name": "Black",
+  "color_id": 29,
+  "imageUrl": "https://i.postimg.cc/4N5rG8JX/NB-530-Black.png",
+  "colortag": "#0F0F11",
+  "product_id": 8
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa3"
+  },
+  "color_name": "Gray",
+  "color_id": 30,
+  "imageUrl": "https://i.postimg.cc/R038c4wq/NB-530-Gray.png",
+  "colortag": "#C7C5C4",
+  "product_id": 8
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa4"
+  },
+  "color_name": "Pink",
+  "color_id": 31,
+  "imageUrl": "https://i.postimg.cc/Y0xyp9BZ/NB-530-Pink.png",
+  "colortag": "#E4C7C8",
+  "product_id": 8
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa5"
+  },
+  "color_name": "Silver",
+  "color_id": 32,
+  "imageUrl": "https://i.postimg.cc/R0nsWGzn/NB-530-Silver.png",
+  "colortag": "#B1B5B8",
+  "product_id": 8
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa6"
+  },
+  "color_name": "Black",
+  "color_id": 33,
+  "imageUrl": "https://i.postimg.cc/vHBv1Xrf/NB-Fresh-Foam-Black.png",
+  "colortag": "#1A1A1C",
+  "product_id": 9
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa7"
+  },
+  "color_name": "Green",
+  "color_id": 34,
+  "imageUrl": "https://i.postimg.cc/RZJQdFbN/NB-Fresh-Foam-Green.png",
+  "colortag": "#B1EBCA",
+  "product_id": 9
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa8"
+  },
+  "color_name": "White",
+  "color_id": 35,
+  "imageUrl": "https://i.postimg.cc/V6mqzFsd/NB-Fresh-Foam-White.png",
+  "colortag": "#F7F4FA",
+  "product_id": 9
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baa9"
+  },
+  "color_name": "Yellow",
+  "color_id": 36,
+  "imageUrl": "https://i.postimg.cc/dQW2KdbD/NB-Fresh-Foam-Yellow.png",
+  "colortag": "#DABE41",
+  "product_id": 9
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baaa"
+  },
+  "color_name": "Black",
+  "color_id": 37,
+  "imageUrl": "https://i.postimg.cc/T1ypxyb6/NB-Fuel-Cell4-Black.png",
+  "colortag": "#211C22",
+  "product_id": 10
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baab"
+  },
+  "color_name": "Cyan",
+  "color_id": 38,
+  "imageUrl": "https://i.postimg.cc/h4wXrrFn/NB-Fuel-Cell4-Cyan.png",
+  "colortag": "#52BDD3",
+  "product_id": 10
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baac"
+  },
+  "color_name": "Orange",
+  "color_id": 39,
+  "imageUrl": "https://i.postimg.cc/ZqTnRsNP/NB-Fuel-Cell4-Orange.png",
+  "colortag": "#FAA87C",
+  "product_id": 10
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baad"
+  },
+  "color_name": "White",
+  "color_id": 40,
+  "imageUrl": "https://i.postimg.cc/tTJgd122/NB-Fuel-Cell4-White.png",
+  "colortag": "#E4E3EA",
+  "product_id": 10
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baae"
+  },
+  "color_name": "Brown",
+  "color_id": 41,
+  "imageUrl": "https://i.postimg.cc/0QhJbdPf/NB-Fuel-Cell5-Brown.png",
+  "colortag": "#8A756A",
+  "product_id": 11
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baaf"
+  },
+  "color_name": "Gray",
+  "color_id": 42,
+  "imageUrl": "https://i.postimg.cc/fTn9sKHL/NB-Fuel-Cell5-Gray.png",
+  "colortag": "#8A8C8E",
+  "product_id": 11
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab0"
+  },
+  "color_name": "Red",
+  "color_id": 43,
+  "imageUrl": "https://i.postimg.cc/6pz2dNB9/NB-Fuel-Cell5-Red.png",
+  "colortag": "#FA4344",
+  "product_id": 11
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab1"
+  },
+  "color_name": "White",
+  "color_id": 44,
+  "imageUrl": "https://i.postimg.cc/ZqMWMFBz/NB-Fuel-Cell5-White.png",
+  "colortag": "#E6E2DF",
+  "product_id": 11
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab2"
+  },
+  "color_name": "Black",
+  "color_id": 45,
+  "imageUrl": "https://i.postimg.cc/g0Q0DzQP/Nike-Air-Max-Black.png",
+  "colortag": "#090A07",
+  "product_id": 12
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab3"
+  },
+  "color_name": "Blue",
+  "color_id": 46,
+  "imageUrl": "https://i.postimg.cc/zv1Xsdqg/Nike-Air-Max-Blue.png",
+  "colortag": "#4E567E",
+  "product_id": 12
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab4"
+  },
+  "color_name": "Red",
+  "color_id": 47,
+  "imageUrl": "https://i.postimg.cc/SQWK6pGH/Nike-Air-Max-Red.png",
+  "colortag": "#602530",
+  "product_id": 12
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab5"
+  },
+  "color_name": "White",
+  "color_id": 48,
+  "imageUrl": "https://i.postimg.cc/BnwZSZqC/Nike-Air-Max-White.png",
+  "colortag": "#E9E5E5",
+  "product_id": 12
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab6"
+  },
+  "color_name": "Blue",
+  "color_id": 49,
+  "imageUrl": "https://i.postimg.cc/j5Yb2LBV/Nike-Alphafly3-Blue.png",
+  "colortag": "#B5BBCB",
+  "product_id": 13
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab7"
+  },
+  "color_name": "Green",
+  "color_id": 50,
+  "imageUrl": "https://i.postimg.cc/3RjHv3Hq/Nike-Alphafly3-Green.png",
+  "colortag": "#CCDCDC",
+  "product_id": 13
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab8"
+  },
+  "color_name": "Orange",
+  "color_id": 51,
+  "imageUrl": "https://i.postimg.cc/mk8fmVkC/Nike-Alphafly3-Orange.png",
+  "colortag": "#DC6664",
+  "product_id": 13
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bab9"
+  },
+  "color_name": "White",
+  "color_id": 52,
+  "imageUrl": "https://i.postimg.cc/Wb1PdRYW/Nike-Alphafly3-White.png",
+  "colortag": "#E0E1E5",
+  "product_id": 13
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22baba"
+  },
+  "color_name": "Black",
+  "color_id": 53,
+  "imageUrl": "https://i.postimg.cc/ncz6H4MG/Nike-Pegasus-Black.png",
+  "colortag": "#29292B",
+  "product_id": 14
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22babb"
+  },
+  "color_name": "Blue",
+  "color_id": 54,
+  "imageUrl": "https://i.postimg.cc/g095q1sD/Nike-Pegasus-Blue.png",
+  "colortag": "#194C9C",
+  "product_id": 14
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22babc"
+  },
+  "color_name": "Gray",
+  "color_id": 55,
+  "imageUrl": "https://i.postimg.cc/Pqm76KFJ/Nike-Pegasus-Gray.png",
+  "colortag": "#7E8082",
+  "product_id": 14
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22babd"
+  },
+  "color_name": "Pink",
+  "color_id": 56,
+  "imageUrl": "https://i.postimg.cc/QtmyDCD3/Nike-Pegasus-Pink.png",
+  "colortag": "#A6288F",
+  "product_id": 14
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22babe"
+  },
+  "color_name": "Black",
+  "color_id": 57,
+  "imageUrl": "https://i.postimg.cc/3x297Njt/Nike-Vomero18-Black.png",
+  "colortag": "#1A1A1A",
+  "product_id": 15
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22babf"
+  },
+  "color_name": "Blue",
+  "color_id": 58,
+  "imageUrl": "https://i.postimg.cc/0QX0Zwv4/Nike-Vomero18-Blue.png",
+  "colortag": "#ADB6C6",
+  "product_id": 15
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bac0"
+  },
+  "color_name": "Cyan",
+  "color_id": 59,
+  "imageUrl": "https://i.postimg.cc/VvSBhkLH/Nike-Vomero18-Cyan.png",
+  "colortag": "#83BBAF",
+  "product_id": 15
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bac1"
+  },
+  "color_name": "Black",
+  "color_id": 60,
+  "imageUrl": "https://i.postimg.cc/13002TsS/Nike-Zoom-Fly6-Black.png",
+  "colortag": "#242424",
+  "product_id": 16
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bac2"
+  },
+  "color_name": "Blue",
+  "color_id": 61,
+  "imageUrl": "https://i.postimg.cc/gJjvw2hg/Nike-Zoom-Fly6-Blue.png",
+  "colortag": "#2E5B92",
+  "product_id": 16
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bac3"
+  },
+  "color_name": "Cyan",
+  "color_id": 62,
+  "imageUrl": "https://i.postimg.cc/ydG00CXZ/Nike-Zoom-Fly6-Cyan.png",
+  "colortag": "#A1C8CF",
+  "product_id": 16
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22bac4"
+  },
+  "color_name": "Orange",
+  "color_id": 63,
+  "imageUrl": "https://i.postimg.cc/JtVJd32S/Nike-Zoom-Fly6-Orange.png",
+  "colortag": "#F2957A",
+  "product_id": 16
+}]

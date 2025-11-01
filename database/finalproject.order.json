@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e14"
+  },
+  "order_id": 3,
+  "customer_id": 3,
+  "order_date": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  },
+  "product_id": 13,
+  "quantity": 1,
+  "unit_price": 9400,
+  "size": 43,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e15"
+  },
+  "order_id": 4,
+  "customer_id": 4,
+  "order_date": {
+    "$date": "2025-10-12T00:00:00.000Z"
+  },
+  "product_id": 4,
+  "quantity": 1,
+  "unit_price": 5490,
+  "size": 41,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e16"
+  },
+  "order_id": 5,
+  "customer_id": 5,
+  "order_date": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "product_id": 10,
+  "quantity": 2,
+  "unit_price": 5400,
+  "size": 40,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e17"
+  },
+  "order_id": 6,
+  "customer_id": 6,
+  "order_date": {
+    "$date": "2025-10-19T00:00:00.000Z"
+  },
+  "product_id": 6,
+  "quantity": 1,
+  "unit_price": 4990,
+  "size": 42,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e18"
+  },
+  "order_id": 7,
+  "customer_id": 7,
+  "order_date": {
+    "$date": "2025-10-21T00:00:00.000Z"
+  },
+  "product_id": 8,
+  "quantity": 1,
+  "unit_price": 3900,
+  "size": 39,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e19"
+  },
+  "order_id": 8,
+  "customer_id": 8,
+  "order_date": {
+    "$date": "2025-10-24T00:00:00.000Z"
+  },
+  "product_id": 14,
+  "quantity": 3,
+  "unit_price": 5200,
+  "size": 43,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e1a"
+  },
+  "order_id": 9,
+  "customer_id": 9,
+  "order_date": {
+    "$date": "2025-10-27T00:00:00.000Z"
+  },
+  "product_id": 3,
+  "quantity": 1,
+  "unit_price": 5490,
+  "size": 41,
+  "color_id": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690591b494cf4ca24a441e1b"
+  },
+  "order_id": 10,
+  "customer_id": 10,
+  "order_date": {
+    "$date": "2025-10-30T00:00:00.000Z"
+  },
+  "product_id": 16,
+  "quantity": 1,
+  "unit_price": 6300,
+  "size": 40,
+  "color_id": 1,
+  "__v": 0
+}]

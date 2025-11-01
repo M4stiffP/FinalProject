@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba86"
+  },
+  "color_name": "Black",
+  "color_id": 1,
+  "imageUrl": "https://i.postimg.cc/mD8fZ84c/HK-Bondi8-Black.png",
+  "colortag": "#1A1C1D",
+  "product_id": 1
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba87"
+  },
+  "color_name": "Cream",
+  "color_id": 2,
+  "imageUrl": "https://i.postimg.cc/fLHpQy7R/HK-Bondi8-Cream.png",
+  "colortag": "#E8E5DB",
+  "product_id": 1
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba88"
+  },
+  "color_name": "Cyan",
+  "color_id": 3,
+  "imageUrl": "https://i.postimg.cc/3w1b2NcD/HK-Bondi8-Cyan.png",
+  "colortag": "#18B19D",
+  "product_id": 1
+},
+{
+  "_id": {
+    "$oid": "69050738a9fdbd6a9c22ba89"
+  },
+  "color_name": "White",
+  "color_id": 4,
+  "imageUrl": "https://i.postimg.cc/htgkmktH/HK-Bondi8-White.png",
+  "colortag": "#D7D8D3",
+  "product_id": 1
+}]
